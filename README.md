@@ -10,7 +10,7 @@ An asynchronous active low reset FIFO memory controller for a data processing sy
 - A status signal is implemented that indicates when the FIFO is empty and when it is full.
 - Code is fully parameterized with the parameters of address size and data size.
 
-# Entity: stopwatch 
+# Entity: fifo_memory 
 - **File**: fifo_memory.v
 
 ## Diagram
